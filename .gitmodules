@@ -1,3 +1,6 @@
 [submodule "EventStreaming/Native/Kafka"]
 	path = EventStreaming/Native/Kafka
 	url = https://github.com/apache/kafka.git
+[submodule "EventStreaming/Amazon/kinesis-python"]
+	path = EventStreaming/Amazon/kinesis-python
+	url = https://github.com/awslabs/amazon-kinesis-client-python.git
