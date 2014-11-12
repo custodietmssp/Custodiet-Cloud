@@ -1,0 +1,3 @@
+[submodule "EventStreaming/Native/Kafka"]
+	path = EventStreaming/Native/Kafka
+	url = https://github.com/apache/kafka.git
